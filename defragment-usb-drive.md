@@ -1,4 +1,4 @@
-# Disk Partition and Format Instructions
+### Disk Partition and Format Instructions
 
 Follow these steps to partition and format a disk using PowerShell or Command Prompt:
 
