@@ -3,7 +3,7 @@
 Follow these steps to partition and format a disk using PowerShell or Command Prompt:
 
 1. Hold the `Windows` key and press `X`, then select **PowerShell (Admin)**. Confirm by selecting **Yes** to the pop-up.
-   You can also use **Command Prompt**.( Hold the `Windows` key and press `R`,
+   You can also use **Command Prompt**.( Hold the `Windows` key and press `R`, **Run** dialog box opens,
    type `cmd` and press `ctrl` + `shift` + `enter`  to open **Command Prompt** in admin mode )
 3. In the PowerShell interface, type `diskpart` to enter the disk partition tool.
 4. Type `list disk`. This command will list the hard drives installed on the machine. Pay close attention not to choose the wrong hard drive.
